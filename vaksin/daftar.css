@@ -1,0 +1,465 @@
+body{
+/* nama */
+
+position: absolute;
+width: 382px;
+height: 78px;
+left: 268px;
+top: 59px;
+
+/* Nama Lengkap */
+
+position: absolute;
+width: 114px;
+height: 23px;
+left: 268px;
+top: 59px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 114px;
+left: 268px;
+top: 59px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 382px;
+height: 45px;
+left: 268px;
+top: 92px;
+
+background: #D8D8D8;
+border-radius: 10px;
+
+height: 45px;
+width: 382px;
+left: 268px;
+top: 92px;
+border-radius: 10px;
+
+/* No KTP */
+
+position: absolute;
+width: 50px;
+height: 23px;
+left: 268px;
+top: 163px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 50px;
+left: 268px;
+top: 163px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Tanggal Lahir */
+
+position: absolute;
+width: 102px;
+height: 23px;
+left: 268px;
+top: 267px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 102px;
+left: 268px;
+top: 267px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Tempat Tinggal */
+
+position: absolute;
+width: 119px;
+height: 23px;
+left: 268px;
+top: 371px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 119px;
+left: 268px;
+top: 371px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Kelurahan */
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 268px;
+top: 475px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 77px;
+left: 268px;
+top: 475px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Kecamatan */
+
+position: absolute;
+width: 89px;
+height: 23px;
+left: 268px;
+top: 579px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 89px;
+left: 268px;
+top: 579px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Kota */
+
+position: absolute;
+width: 35px;
+height: 23px;
+left: 268px;
+top: 683px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 35px;
+left: 268px;
+top: 683px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* Provinsi */
+
+position: absolute;
+width: 58px;
+height: 23px;
+left: 790px;
+top: 59px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 58px;
+left: 790px;
+top: 59px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* RT */
+
+position: absolute;
+width: 18px;
+height: 23px;
+left: 790px;
+top: 163px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 18px;
+left: 790px;
+top: 163px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/* RW */
+
+position: absolute;
+width: 24px;
+height: 23px;
+left: 790px;
+top: 267px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 24px;
+left: 790px;
+top: 267px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+/*form nya sama kya form input nama*/
+
+/* No Telfon / Whatsapp */
+
+position: absolute;
+width: 171px;
+height: 23px;
+left: 790px;
+top: 371px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #152137;
+
+height: 23px;
+width: 171px;
+left: 790px;
+top: 371px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.form .btn-daftar{
+    /* Frame 9 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px;
+
+position: absolute;
+width: 311px;
+height: 45px;
+left: 819px;
+top: 508px;
+
+background: #113ED8;
+border-radius: 10px;
+
+height: 45px;
+width: 311px;
+left: 819px;
+top: 508px;
+border-radius: 10px;
+padding: 25px;
+
+/* Daftar */
+
+position: static;
+width: 79px;
+height: 36px;
+left: 116px;
+top: 4.5px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 20px;
+
+height: 36px;
+width: 79px;
+left: 116px;
+top: 4.5px;
+border-radius: nullpx;
+
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+

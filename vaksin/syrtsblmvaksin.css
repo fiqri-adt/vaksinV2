@@ -1,0 +1,155 @@
+.navbar{
+  /* navbar */
+
+position: absolute;
+width: 1200px;
+height: 30px;
+left: 120px;
+top: 40px;
+}
+
+.navbar .logo{
+  /* hilifik logo 2 */
+
+position: absolute;
+width: 85px;
+height: 24px;
+left: 120px;
+top: 43px;
+
+background: url();
+}
+
+.navbar .home{
+  /* Home */
+
+position: absolute;
+width: 36px;
+height: 18px;
+left: 255px;
+top: 46px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+
+/* identical to box height */
+/*properties*/
+height: 18px;
+width: 36px;
+left: 255px;
+top: 46px;
+border-radius: nullpx;
+
+/*typography*/
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.navbar .about{
+  /* About */
+
+position: absolute;
+width: 36px;
+height: 18px;
+left: 336px;
+top: 46px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: rgba(98, 98, 98, 0.7);
+
+/*properties*/
+height: 18px;
+width: 36px;
+left: 336px;
+top: 46px;
+border-radius: nullpx;
+
+/*typography*/
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 300;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+background: #626262B2;
+
+
+}
+
+.navbar .blog{
+  /* Blog */
+
+position: absolute;
+width: 26px;
+height: 18px;
+left: 417px;
+top: 46px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: rgba(98, 98, 98, 0.7);
+
+/*properties*/
+height: 18px;
+width: 26px;
+left: 417px;
+top: 46px;
+border-radius: nullpx;
+
+/*typography*/
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 300;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.navbar .btn{
+  /* Frame 1 */
+
+position: absolute;
+width: 54px;
+height: 30px;
+left: 1266px;
+top: 40px;
+
+background: #143DCC;
+border-radius: 5px;
+
+background: #143DCC;
+
+/*prperties*/
+height: 30px;
+width: 54px;
+left: 1266px;
+top: 40px;
+border-radius: 5px;
+
+}
